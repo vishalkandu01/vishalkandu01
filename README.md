@@ -4,7 +4,7 @@
 <hr>
 
 <br>
-<img alt="Coding" width="500" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15">
+<img alt="Coding" width="800" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=2">
 
 <img align="right" alt="Coding" height="290" width="415" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
 <br>
