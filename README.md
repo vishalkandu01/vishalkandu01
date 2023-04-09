@@ -3,7 +3,11 @@
 <h3 align="center">I'm a Student, Developer, and Open-Source enthusiast!!</h3>
 <hr>
 
+<br>
+<img alt="Coding" width="500" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15">
+
 <img align="right" alt="Coding" height="290" width="415" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkandu01&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkandu01" /> </p>
 
