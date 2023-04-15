@@ -5,7 +5,7 @@
 
 <br>
 <!-- <img alt="Coding" width="800" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=2"> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="700" src="https://github-profile-trophy.vercel.app/?username=suraj97303" alt="vishalkandu01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="750" src="https://github-profile-trophy.vercel.app/?username=suraj97303" alt="vishalkandu01" /></a> </p>
 
 
 
