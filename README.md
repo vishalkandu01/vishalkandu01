@@ -18,7 +18,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkandu01" alt="vishalkandu01" /></a> </p> -->
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, ReactJS, Node JS and Express JS**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, ReactJS, Node JS, Express JS, MongoDB and SQL**
 
 - 📫 How to reach me **kanduvishal07@gmail.com**
 
