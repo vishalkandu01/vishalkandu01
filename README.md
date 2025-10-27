@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">Hi 👋, I'm Vishal Kandu</h1>
-<h3 align="center">I'm a Student, Developer, and Open-Source enthusiast!!</h3>
+<h3 align="center">I'm a Software Developer, and Open-Source enthusiast!!</h3>
 <hr>
 
 <br>
@@ -18,9 +18,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkandu01" alt="vishalkandu01" /></a> </p> -->
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, ReactJS, Node JS, Express JS, MongoDB and SQL**
+- 💬 Ask me about **Java, C++, JavaScript, TypeScript, React.js, Next.js Node.js, Express.js, SpringBoot, Hibernate/JPA MongoDB, postgreSQL, HTML, CSS, TailwindCSS, AWS**
 
-- 📫 How to reach me **kanduvishal07@gmail.com**
+- 📫 How to reach me **vishalkandu07@gmail.com**
 
 - ⚡ Fun fact **I love to play sports**
 
